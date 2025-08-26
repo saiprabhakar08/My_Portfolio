@@ -8,6 +8,7 @@
 // import eight from '../assets/svg/projects/eight.svg'
 import steganography from '../assets/svg/projects/steganography.svg'
 import collegium from '../assets/svg/projects/collegium.svg'
+import fooddonationmanagement from '../assets/svg/projects/fooddonationmanagement.jpg'
 
 
 export const projectsData = [
@@ -21,14 +22,14 @@ export const projectsData = [
         image: collegium
     },
     // {
-    //     id: 2,
-    //     projectName: 'Steganography',
-    //     projectDesc: 'Steganography is a security project focused on concealing secret data within digital images, ensuring confidential information remains hidden and secure from unauthorized access.',
-    //     tags: ['Java GUI'],
-    //     code: 'https://github.com/saiprabhakar08',
-    //     demo: 'https://github.com/saiprabhakar08',
-    //     image: steganography
-    // },
+        id: 2,
+        projectName: 'Food Donation Management',
+        projectDesc: 'A web-based platform that connects food donors and recipients, enabling surplus food listing, location-based search, and real-time availability to reduce waste and fight hunger.',
+        tags: ['React Native','MongoDB','MERN'],
+        code: 'https://github.com/saiprabhakar08/Food-Donation-Management',
+        demo: 'https://github.com/saiprabhakar08/Food-Donation-Management',
+        image: steganography
+    },
     // {
     //     id: 3,
     //     projectName: 'Infrastructure Tracker',
