@@ -20,15 +20,15 @@ export const projectsData = [
         demo: 'https://github.com/saiprabhakar08',
         image: collegium
     },
-    {
-        id: 2,
-        projectName: 'Steganography',
-        projectDesc: 'Steganography is a security project focused on concealing secret data within digital images, ensuring confidential information remains hidden and secure from unauthorized access.',
-        tags: ['Java GUI'],
-        code: 'https://github.com/saiprabhakar08',
-        demo: 'https://github.com/saiprabhakar08',
-        image: steganography
-    },
+    // {
+    //     id: 2,
+    //     projectName: 'Steganography',
+    //     projectDesc: 'Steganography is a security project focused on concealing secret data within digital images, ensuring confidential information remains hidden and secure from unauthorized access.',
+    //     tags: ['Java GUI'],
+    //     code: 'https://github.com/saiprabhakar08',
+    //     demo: 'https://github.com/saiprabhakar08',
+    //     image: steganography
+    // },
     // {
     //     id: 3,
     //     projectName: 'Infrastructure Tracker',
