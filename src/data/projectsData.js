@@ -29,7 +29,7 @@ export const projectsData = [
         tags: ['React Native','MongoDB','MERN'],
         code: 'https://github.com/saiprabhakar08/Food-Donation-Management',
         demo: 'https://github.com/saiprabhakar08/Food-Donation-Management',
-        image: steganography
+        image: fooddonationmanagement
     },
     {
         id: 3,
