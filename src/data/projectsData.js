@@ -8,7 +8,8 @@
 // import eight from '../assets/svg/projects/eight.svg'
 import steganography from '../assets/svg/projects/steganography.svg'
 import collegium from '../assets/svg/projects/collegium.svg'
-import fooddonationmanagement from '../assets/svg/projects/fooddonationmanagement.jpg'
+import fooddonationmanagement from '../assets/svg/projects/fooddonationmanagement.png'
+import trainticketbooking from '../assets/svg/projects/trainticketbooking.png'
 
 
 export const projectsData = [
@@ -21,7 +22,7 @@ export const projectsData = [
         demo: 'https://github.com/saiprabhakar08',
         image: collegium
     },
-    // {
+     {
         id: 2,
         projectName: 'Food Donation Management',
         projectDesc: 'A web-based platform that connects food donors and recipients, enabling surplus food listing, location-based search, and real-time availability to reduce waste and fight hunger.',
@@ -30,15 +31,15 @@ export const projectsData = [
         demo: 'https://github.com/saiprabhakar08/Food-Donation-Management',
         image: steganography
     },
-    // {
-    //     id: 3,
-    //     projectName: 'Infrastructure Tracker',
-    //     projectDesc: ' Created a React.js app for tracking infrastructure data using MongoDB aggregations, enabling dynamic visualization of equipment counts by location and product.',
-    //     tags: ['React.js', 'MongoDB'],
-    //     code: 'https://github.com/saiprabhakar08',
-    //     demo: 'https://github.com/saiprabhakar08',
-    //     image: two
-    // },
+    {
+        id: 3,
+        projectName: 'BookMyTrainTicket',
+        projectDesc: ' A Java Swing and JDBC-based system that allows users to search trains by route, view schedules, and book tickets securely, ensuring smooth and efficient railway reservations.',
+        tags: ['Java Swing', 'JDBC', 'MySql'],
+        code: 'https://github.com/saiprabhakar08/BookMyTrainTicket',
+        demo: 'https://github.com/saiprabhakar08/BookMyTrainTicket',
+        image: trainticketbooking
+    },
     // {
     //     id: 4,
     //     projectName: 'Android Patient Tracker',
